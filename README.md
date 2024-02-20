@@ -4,6 +4,10 @@
 
 <h4 align="left">I'm Çağatay Çelimli, a Java Full Stack Developer graduated from Kahramanmaraş Sütçü İmam University with a degree in Computer Engineering. Since 2018, I have been actively involved in the software world both individually and in corporate environments. My analytical thinking, inquisitive nature, and ability to quickly adapt to new technologies set me apart.<br><br>I actively participate in all stages of projects, gaining experience in prioritization, analysis, development, testing, and implementation processes. My ability to analyze changing needs and generate solutions contributes to the successful completion of projects. I am deeply committed to the fundamental principles of software engineering and approach every project from this perspective.<br><br>You can find detailed information about my projects on my GitHub profile.</h4>
 
+<br clear="both">
+
+<br clear="both">
+
 ###
 
 <h3 align="left">Key Skills</h3>
@@ -38,7 +42,7 @@
 
 ###
 
-<h3 align="left">Skills and Tools</h3>
+<h3 align="left">Skills</h3>
 
 ###
 
